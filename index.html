@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="de">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="shortcut icon"
+      href="./assets/dont_panic.png"
+      type="image/x-icon"
+    />
+    <link rel="stylesheet" href="./input.css" />
+    <link rel="manifest" href="./manifest.json" />
+    <title>Satzglied-Spiel</title>
+    <style>
+      body {
+        font-family: sans-serif;
+        margin: 2em;
+      }
+      .satz {
+        margin-bottom: 1em;
+      }
+      .wort-btn {
+        margin: 0.3em;
+        padding: 0.5em 1em;
+      }
+      .richtig {
+        background: #b2f2b2;
+      }
+      .falsch {
+        background: #f2b2b2;
+      }
+    </style>
+  </head>
+  <body>
+    <img src="./assets/satze.png" width="24px" alt="icon" />
+    <div id="app"></div>
+    <a href="https://www.flaticon.com/de/kostenlose-icons/satz" target="_blank" rel="noopener noreferrer" title="satz Icons" style="position: fixed;bottom: 0;left: 0;font-size: xx-small;">Satz Icons erstellt von iconixar - Flaticon</a>
+    <script src="/dist/spiel.js" defer></script>
+  </body>
+</html>
