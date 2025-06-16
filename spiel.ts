@@ -34,6 +34,26 @@ const saetze: Satz[] = [
     ],
   },
   {
+  teile: [
+    { text: "Während viele Eltern versuchen, die Bildschirmzeit zu begrenzen", typ: "Adverbiale" },
+    { text: "entwickelt", typ: "Prädikat" },
+    { text: "sich", typ: "Subjekt" },
+    { text: "bei Jugendlichen", typ: "Dativobjekt" },
+    { text: "häufig eine Abhängigkeit", typ: "Akkusativobjekt" },
+    { text: "die schwer zu erkennen ist", typ: "Adverbiale" },
+  ],
+},
+{
+  teile: [
+    { text: "Aufgrund der steigenden Nutzung digitaler Geräte", typ: "Adverbiale" },
+    { text: "wird", typ: "Prädikat" },
+    { text: "das Problem der Onlinesucht", typ: "Subjekt" },
+    { text: "den Fachkräften", typ: "Dativobjekt" },
+    { text: "immer bewusster", typ: "Akkusativobjekt" },
+    { text: "in der Gesellschaft", typ: "Adverbiale" },
+  ],
+},
+  {
     teile: [
       { text: "Nach dem langen Arbeitstag", typ: "Adverbiale" },
       { text: "kocht", typ: "Prädikat" },
@@ -65,6 +85,26 @@ const saetze: Satz[] = [
     ],
   },
   {
+  teile: [
+    { text: "Obwohl viele Jugendliche sich der Risiken bewusst sind", typ: "Adverbiale" },
+    { text: "verbringen", typ: "Prädikat" },
+    { text: "sie", typ: "Subjekt" },
+    { text: "ihren Freunden", typ: "Dativobjekt" },
+    { text: "immer weniger Zeit", typ: "Akkusativobjekt" },
+    { text: "im echten Leben", typ: "Adverbiale" },
+  ],
+},
+{
+  teile: [
+    { text: "Durch das ständige Nutzen sozialer Medien", typ: "Adverbiale" },
+    { text: "wird", typ: "Prädikat" },
+    { text: "das Verhalten", typ: "Subjekt" },
+    { text: "vielen Jugendlichen", typ: "Dativobjekt" },
+    { text: "immer unkontrollierter", typ: "Akkusativobjekt" },
+    { text: "im Alltag", typ: "Adverbiale" },
+  ],
+},
+  {
     teile: [
       { text: "Im Sommer", typ: "Adverbiale" },
       { text: "organisiert", typ: "Prädikat" },
@@ -89,7 +129,7 @@ const saetze: Satz[] = [
       { text: "Am Wochenende", typ: "Adverbiale" },
       { text: "besucht", typ: "Prädikat" },
       { text: "mein Bruder", typ: "Subjekt" },
-      { text: "uns", typ: "Dativobjekt" },
+      { text: "mit uns", typ: "Dativobjekt" },
       { text: "seine neue Freundin", typ: "Akkusativobjekt" },
       { text: "in Zürich", typ: "Adverbiale" },
     ],
@@ -104,6 +144,26 @@ const saetze: Satz[] = [
       { text: "schnell", typ: "Adverbiale" },
     ],
   },
+  {
+  teile: [
+    { text: "Nachdem sie alle erforderlichen Unterlagen eingereicht hatte", typ: "Adverbiale" },
+    { text: "bewilligte", typ: "Prädikat" },
+    { text: "die Behörde", typ: "Subjekt" },
+    { text: "der Antragstellerin", typ: "Dativobjekt" },
+    { text: "die finanzielle Unterstützung", typ: "Akkusativobjekt" },
+    { text: "innerhalb weniger Tage", typ: "Adverbiale" },
+  ],
+},
+{
+  teile: [
+    { text: "Von zahlreichen Experten geprüft", typ: "Adverbiale" },
+    { text: "wurde", typ: "Prädikat" },
+    { text: "das neue Konzept", typ: "Subjekt" },
+    { text: "den Mitarbeitern", typ: "Dativobjekt" },
+    { text: "detailliert vorgestellt", typ: "Akkusativobjekt" },
+    { text: "am letzten Freitag", typ: "Adverbiale" },
+  ],
+},
   {
     teile: [
       { text: "Im Winter", typ: "Adverbiale" },
@@ -134,6 +194,26 @@ const saetze: Satz[] = [
       { text: "im Klassenzimmer", typ: "Adverbiale" },
     ],
   },
+  {
+  teile: [
+    { text: "Während des Meetings", typ: "Adverbiale" },
+    { text: "präsentiert", typ: "Prädikat" },
+    { text: "der Projektleiter", typ: "Subjekt" },
+    { text: "den Kollegen", typ: "Dativobjekt" },
+    { text: "die neuen Konzepte", typ: "Akkusativobjekt" },
+    { text: "mit großer Überzeugung", typ: "Adverbiale" },
+  ],
+},
+{
+  teile: [
+    { text: "Am Wochenende", typ: "Adverbiale" },
+    { text: "organisiert", typ: "Prädikat" },
+    { text: "die Gemeinde", typ: "Subjekt" },
+    { text: "den Bewohnern", typ: "Dativobjekt" },
+    { text: "ein Straßenfest", typ: "Akkusativobjekt" },
+    { text: "auf dem Marktplatz", typ: "Adverbiale" },
+  ],
+},
   {
     teile: [
       { text: "Bei schönem Wetter", typ: "Adverbiale" },
@@ -175,6 +255,26 @@ const saetze: Satz[] = [
     ],
   },
   {
+  teile: [
+    { text: "Nach dem erfolgreichen Projektabschluss", typ: "Adverbiale" },
+    { text: "überreicht", typ: "Prädikat" },
+    { text: "der Abteilungsleiter", typ: "Subjekt" },
+    { text: "den Mitarbeitenden", typ: "Dativobjekt" },
+    { text: "eine besondere Auszeichnung", typ: "Akkusativobjekt" },
+    { text: "im großen Konferenzraum", typ: "Adverbiale" },
+  ],
+},
+{
+  teile: [
+    { text: "Am Ende des Semesters", typ: "Adverbiale" },
+    { text: "stellt", typ: "Prädikat" },
+    { text: "die Professorin", typ: "Subjekt" },
+    { text: "den Studierenden", typ: "Dativobjekt" },
+    { text: "die Prüfungsergebnisse", typ: "Akkusativobjekt" },
+    { text: "online", typ: "Adverbiale" },
+  ],
+},
+  {
     teile: [
       { text: "Während der Reise", typ: "Adverbiale" },
       { text: "erzählt", typ: "Prädikat" },
@@ -182,6 +282,16 @@ const saetze: Satz[] = [
       { text: "den Touristen", typ: "Dativobjekt" },
       { text: "interessante Fakten", typ: "Akkusativobjekt" },
       { text: "über die Stadt", typ: "Adverbiale" },
+    ],
+  },
+  {
+    teile: [
+      { text: "Während der Reise", typ: "Adverbiale" },
+      { text: "schreibt", typ: "Prädikat" },
+      { text: "Er", typ: "Subjekt" },
+      { text: "mir", typ: "Dativobjekt" },
+      { text: "einen Brief", typ: "Akkusativobjekt" },
+      { text: "schnell", typ: "Adverbiale" },
     ],
   },
   {
@@ -211,8 +321,27 @@ const fragen = [
   },
 ];
 
-let aktuellerSatz = 0;
-let aktuelleFrage = 0;
+function getRandomIndex(length: number, exclude?: number) {
+  let idx: number;
+  do {
+    idx = Math.floor(Math.random() * length);
+  } while (exclude !== undefined && length > 1 && idx === exclude);
+  return idx;
+}
+
+// Fisher-Yates Shuffle für Arrays
+function shuffleArray<T>(array: T[]): T[] {
+  const arr = array.slice();
+  for (let i = arr.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [arr[i], arr[j]] = [arr[j], arr[i]];
+  }
+  return arr;
+}
+
+let aktuellerSatz = getRandomIndex(saetze.length);
+let aktuelleFrage = getRandomIndex(fragen.length);
+let gemischteTeile: Satzglied[] = [];
 
 function render() {
   const app = document.getElementById("app")!;
@@ -263,12 +392,13 @@ function handleClick(idx: number) {
   if (clickedTeil.typ === frageObj.typ) {
     buttons[idx].classList.add("richtig");
     setTimeout(() => {
-      // Zur nächsten Frage oder Satz springen
-      if (aktuelleFrage < fragen.length - 1) {
-        aktuelleFrage++;
-      } else {
-        aktuelleFrage = 0;
-        aktuellerSatz = (aktuellerSatz + 1) % saetze.length;
+      // Zufällige nächste Frage
+      let neueFrage = getRandomIndex(fragen.length, aktuelleFrage);
+      aktuelleFrage = neueFrage;
+
+      // Falls alle Fragen einmal durch sind, nächster zufälliger Satz
+      if (aktuelleFrage === 0) {
+        aktuellerSatz = getRandomIndex(saetze.length, aktuellerSatz);
       }
       render();
     }, 800);
